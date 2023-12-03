@@ -1,6 +1,6 @@
  <H1>✋  À mon sujet</H1>
 
- Toujours à la recherche de projets sur lesquel participer 
+ Toujours à la recherche de projets sur lesquels participer 
 
  Compétences actuelles : FRONTEND ( HTML , CSS , JAVASCRIPT ) BACKEND ( PHP )
 
